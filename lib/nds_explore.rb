@@ -16,5 +16,5 @@ def print_first_directors_movie_titles
    final_array.push(variable)
    count +=1 
  end
- p final_array 
+ puts final_array 
 end
