@@ -20,5 +20,3 @@ def print_first_directors_movie_titles
  end
  p final_array 
 end
-
-print_first_directors_movie_titles
