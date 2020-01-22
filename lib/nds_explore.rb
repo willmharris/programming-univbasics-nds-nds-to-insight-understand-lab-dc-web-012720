@@ -13,7 +13,7 @@ def print_first_directors_movie_titles
  count = 0 
  while count < directors_database[0][:movies].length do
    variable = directors_database[0][:movies][count][:title] 
-   final_array_array.push(variable)
+   final_array.push(variable)
    count +=1 
  end
  p final_array 
